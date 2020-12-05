@@ -1,0 +1,24 @@
+body{
+    /* margin: 400px; */
+}
+
+h1{
+    margin: 100px 800px ;
+    font-size: 60px;
+}
+
+div {
+    text-align: center;
+}
+
+#clock{
+    margin: 100px 700px auto;
+    justify-content: center; 
+    text-align: center;
+    font-size: 50px; 
+    color: white;
+    width: 400px; 
+    border: 3px solid rgb(40, 12, 119); 
+    background: rgb(64, 16, 194);
+    border-radius: 10px;
+}
